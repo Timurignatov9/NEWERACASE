@@ -1,0 +1,13 @@
+name: NEWERACASES
+version: 1.0.0
+main: net.framedev.Main
+api-version: 1.16
+authors:
+  - NEWERADEV
+commands:
+  NEWERACASES:
+    aliases:
+      - cases
+depend:
+  - ProtocolLib
+  - HolographicDisplays
